@@ -11,9 +11,11 @@ function Footer() {
             Gaborone, Botswana
           </p>
         </div>
+        {/*
         <p className="font-mono text-[12px] uppercase tracking-[0.05em] text-bg/55">
           Unique gaming experiences
         </p>
+        */}
       </div>
     </footer>
   )
