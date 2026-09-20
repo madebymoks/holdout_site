@@ -7,7 +7,7 @@ function Footer() {
         <div className="flex items-center gap-4">
           <img src={logo} alt="1608 Studios" className="h-8 w-auto" />
           <p className="font-mono text-[12px] uppercase tracking-[0.05em] text-bg/55">
-            &copy; 2026 <span className="text-accent">1608 Studios</span>
+            &copy; 2026 <span className="text-highlight">1608 Studios</span>
           </p>
         </div>
         {/*

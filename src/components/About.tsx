@@ -25,8 +25,7 @@ function About() {
           <div>
             <p className="text-[20px] leading-[1.5]">
               1608 Studios is an independent mobile game studio. We build
-              original games that people actually want to spend time with. Our games have a point of view, a defined identity, and a reason
-              to exist.
+              original games that people actually want to spend time with. Our games have a point of view and a defined identity.
             </p>
             <p className="mt-6 text-[20px] leading-[1.5]">
               The mobile space is crowded with copies of copies. We are not
@@ -51,11 +50,13 @@ function About() {
                whether that idea lives in the mechanic, the aesthetic, the
               story, or all three.
             </p>
+            {/*
             <p className="mt-6 text-[20px] font-normal leading-[1.5]">
               We are small on purpose. It keeps the work honest, the ideas
               focused, and the games personal. There is no committee. No
               middle layer. What we release is what we meant to make.
             </p>
+            */}
           </div>
         </div>
       </div>

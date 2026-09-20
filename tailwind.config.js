@@ -8,6 +8,7 @@ export default {
         'bg-alt': '#ebe5d7',
         ink: '#111318',
         accent: '#d4845a',
+        highlight: '#c026d3',
         muted: '#6b6f77',
         hairline: '#d4cebd',
       },
