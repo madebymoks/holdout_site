@@ -48,7 +48,7 @@ function HoldoutPage() {
               iOS
             </span>
             <a
-              href="#"
+              href="https://apps.apple.com/us/app/holdout-shoot-to-survive/id6765745950"
               className="inline-flex items-center gap-1 font-mono text-[12px] uppercase text-ink transition-colors hover:text-accent"
             >
               App Store <span className="text-accent">↗</span>
