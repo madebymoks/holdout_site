@@ -15,7 +15,7 @@ function About() {
           </span>
         </div>
 
-        <h2 className="wrap-break-word mb-20 font-display uppercase leading-[0.88] tracking-[-0.035em] text-[clamp(48px,8vw,120px)]">
+        <h2 className="wrap-break-word mb-20 font-display uppercase leading-[0.88] tracking-[-0.035em] text-[clamp(34px,8vw,120px)]">
           Small studio.
           <br />
           Big ideas.

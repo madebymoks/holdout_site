@@ -31,7 +31,7 @@ function HoldoutPage() {
             Survival &middot; Released
           </p>
 
-          <h1 className="wrap-break-word mt-2 font-display uppercase leading-[0.88] tracking-[-0.035em] text-[clamp(48px,10vw,160px)]">
+          <h1 className="wrap-break-word mt-2 font-display uppercase leading-[0.88] tracking-[-0.035em] text-[clamp(32px,11vw,160px)]">
             Holdout
           </h1>
           <p className="mt-2 font-mono text-[14px] uppercase tracking-[0.08em] text-muted">
@@ -60,6 +60,13 @@ function HoldoutPage() {
               Google Play <span className="text-accent">↗</span>
             </a> */}
           </div>
+
+          <Link
+            to="/games/holdout/privacy"
+            className="mt-8 inline-block font-mono text-[12px] uppercase tracking-[0.04em] text-muted transition-colors hover:text-accent"
+          >
+            Privacy Policy
+          </Link>
         </div>
       </section>
 

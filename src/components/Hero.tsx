@@ -2,7 +2,7 @@ function Hero() {
   return (
     <section className="pt-[80px] pb-[120px] text-left">
       <div className="mx-auto max-w-[1360px] px-12">
-        <h1 className="wrap-break-word font-display uppercase leading-[0.82] tracking-[-0.045em] text-[clamp(64px,13vw,220px)]">
+        <h1 className="wrap-break-word font-display uppercase leading-[0.82] tracking-[-0.045em] text-[clamp(36px,12vw,220px)]">
           Games worth
           <br />
           picking <span className="text-highlight">up.</span>
